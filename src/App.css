@@ -1,0 +1,42 @@
+/* ... (previous CSS rules) */
+
+.app-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+    background-color: #333;
+    color: #fff;
+  }
+  
+  .header-controls {
+    display: flex;
+    align-items: center;
+  }
+  
+  .search-input {
+    padding: 5px;
+    margin-right: 10px;
+    border: none;
+    border-radius: 5px;
+  }
+  
+  .search-button {
+    padding: 5px 10px;
+    background-color: #f9f9f9;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    color: #333;
+  }
+
+  /* ... (previous CSS rules) */
+
+.movie-card {
+    border: 1px solid #ccc;
+    padding: 10px;
+    background-color: #f9f9f9;
+    box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1);
+    margin-bottom: 20px; 
+  }
+  
